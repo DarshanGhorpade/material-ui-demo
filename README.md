@@ -1,3 +1,13 @@
+
+# Material UI Demo
+
+To install the required dependencies,
+Command for material ui installation,
+npm install @material-ui/core @material-ui/icons
+
+Material UI installation [Material UI](https://mui.com/getting-started/installation/).
+
+Material UI Icons [Material UI](https://mui.com/components/icons/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
